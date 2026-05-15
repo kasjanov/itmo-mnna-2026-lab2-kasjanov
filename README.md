@@ -19,4 +19,9 @@
 В модели используется post-norm вариант:
 
 z1 = LayerNorm(x + Attention(x))
+
 z2 = LayerNorm(z1 + FFN(z1))
+
+https://disk.yandex.ru/d/wsnkF9c3a9dEKA
+
+https://disk.yandex.ru/d/ri0wJUkgE4pn-A
