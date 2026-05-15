@@ -28,3 +28,4 @@ z2 = LayerNorm(z1 + FFN(z1))
 https://disk.yandex.ru/d/wsnkF9c3a9dEKA
 
 https://disk.yandex.ru/d/ri0wJUkgE4pn-A
+<img width="902" height="739" alt="изображение" src="https://github.com/user-attachments/assets/e60c0ee5-e0e5-4cde-9797-6f66d3c6195c" />
